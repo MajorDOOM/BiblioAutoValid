@@ -1,0 +1,8 @@
+[
+    {
+        "name":"Nouveauté",
+        "mainBoxId":".x-window",
+        "regEx":"Alerte pour le retour de ce document(.*)Nouveauté",
+        "btnId":".x-window-question .x-btn-wrap"
+    }
+]
